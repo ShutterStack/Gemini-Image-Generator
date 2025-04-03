@@ -164,5 +164,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*Built with ❤️ by [Your Name](https://github.com/ShutterStack)*
+*Built with ❤️ by [ShutterStack](https://github.com/ShutterStack)*
 
