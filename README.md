@@ -1,6 +1,5 @@
 # Gemini-Image-Generator
-
-![Gemini Image Studio Banner](https://via.placeholder.com/1200x300.png?text=Gemini+Image+Studio)  
+ 
 *Create and transform images with the power of Google's Gemini 2.0 models.*
 
 **Gemini Image Generator** is an interactive web application built with Streamlit that leverages Google's Gemini 2.0 Flash model for advanced image generation and transformation. Whether you're crafting original images from text prompts or reimagining existing visuals with creative modifications, this tool provides a seamless interface to explore the multimodal capabilities of Gemini 2.0.
